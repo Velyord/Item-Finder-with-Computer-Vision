@@ -1,3 +1,4 @@
+![Item-Finder-with-Computer-Vision](https://th.bing.com/th/id/OIG3.DLmIEiLkE8r2OttIp8Uu?pid=ImgGn)
 # Item-Finder-with-Computer-Vision
 ---
 skeletonImage is loaded as an image from a file named "skeleton.jpg" and converted to a black and white image with the rgb2gray() function.
