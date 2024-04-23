@@ -18,3 +18,10 @@ The matchFeatures() function is used to compare the features of the points of in
 The estimateGeometricTransform() function is used to estimate the geometric transformation between the two sets of points.
 
 The place in the general picture where the object was found is outlined.
+![Item-Finder-with-Computer-Vision-1](https://i.imgur.com/XnCu4Hj.png)
+![Item-Finder-with-Computer-Vision-2](https://i.imgur.com/AVthcg7.png)
+![Item-Finder-with-Computer-Vision-3](https://i.imgur.com/kIV9NAY.png)
+![Item-Finder-with-Computer-Vision-4](https://i.imgur.com/fSFhnxe.png)
+![Item-Finder-with-Computer-Vision-5](https://i.imgur.com/5WcfonX.png)
+![Item-Finder-with-Computer-Vision-6](https://i.imgur.com/5ys1l9Y.png)
+![Item-Finder-with-Computer-Vision-7](https://i.imgur.com/Bj6hLS6.png)
